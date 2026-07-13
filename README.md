@@ -67,5 +67,5 @@ __Проблема__
 **Главная страница**
 ![Dashboard](images/dashboard.jpeg)
 **Демонстрация динамического переключения KPI с использованием Field Parameters**
-
+![Dynamic KPI](images/kpi_gif.gif)
 **Модель данных**
