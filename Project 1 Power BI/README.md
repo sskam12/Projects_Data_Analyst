@@ -1,6 +1,4 @@
-# Project-1-Power-BI-
-
-Retail Sales Dashboard (Power BI)
+# Retail Sales Dashboard (Power BI)
 
 **Описание проекта**
 
