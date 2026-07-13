@@ -71,4 +71,8 @@ __Проблема__
 **Демонстрация динамического переключения KPI с использованием Field Parameters**
 ![Dynamic KPI](images/KPI_gif.gif)
 
-**Модель данных**
+**Онлайн-версия**
+
+Интерактивная версия дашборда доступна по ссылке: https://app.powerbi.com/links/gCUKodId1_?ctid=423ab8f4-e16c-4fb8-ab9d-caac34ad9fbb&pbi_source=linkShare&bookmarkGuid=84dec799-fe0d-4668-adbb-3ddea371ae7c
+
+
